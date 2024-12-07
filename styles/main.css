@@ -1,0 +1,25 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #6c757d;
+  color: #fff;
+}
+body header, body footer {
+  background-color: #007bff;
+}
+body header a, body footer a {
+  text-decoration: none;
+}
+body header a:hover, body footer a:hover {
+  color: rgb(51, 149.4, 255);
+}
+
+main h2 {
+  color: rgb(161.1158798283, 167.8755364807, 173.8841201717);
+  margin-bottom: 1rem;
+}
+main p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+/*# sourceMappingURL=main.css.map */
