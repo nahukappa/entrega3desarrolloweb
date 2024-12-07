@@ -1,9 +1,9 @@
-// Variables
+//variables
 $primary-color: #007bff;
 $secondary-color: #6c757d;
 $font-stack: 'Arial', sans-serif;
 
-// Estilos Globales
+//estilos globales
 body {
   font-family: $font-stack;
   background-color: $secondary-color;
@@ -20,7 +20,7 @@ body {
   }
 }
 
-// Contenido Principal
+// contenido principal
 main {
   h2 {
     color: lighten($secondary-color, 20%);
